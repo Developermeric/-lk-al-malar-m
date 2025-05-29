@@ -1,0 +1,36 @@
+body{
+    background-color: #f2f2f2;
+    color: #222;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+
+h2{
+    color: blue;
+    font-size: 26px;
+    /*yorum
+
+}
+
+.malzemeler{
+
+color: greenyellow;
+
+}
+
+.hazirlik{
+    font-style: italic
+}
+
+a:hover{
+    color: red;
+}
+#footer{
+    color: gray;
+    text-align: center;
+    font-size: 13px;   
+}
+
