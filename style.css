@@ -8,10 +8,6 @@ h2 {
   font-size: 30px;
 }
 
-#lorem {
-  color: blueviolet;
-}
-
 a[href^="#"] {
   color: seagreen !important;
 }
